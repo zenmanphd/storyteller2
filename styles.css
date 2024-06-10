@@ -1,0 +1,44 @@
+body {
+  background-image: url('anna.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  color: rgb(160, 194, 219);
+}
+.main {
+  background-color: rgba(2, 31, 59, 0.836);
+  border: 2px inset rgb(156, 156, 156);
+  text-align: justify;
+  line-height: 2.5;
+  padding: 35px;
+  margin: auto;
+  margin-top: 5%;
+  width: 1250px;
+}
+.maintext {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  line-height: 2.0;
+}
+h1 {
+  font-weight: 800;
+  font-size: 2.5em;
+}
+#tag {
+  text-align: justify;
+  margin-left: 70%;
+  color: rgba(115, 196, 175, 0.758);
+  font-family: 'Courier New', Courier, monospace;
+}
+#excerpt {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bolder;
+}
+.audio-container {
+  display: inline-block;
+  width: 300px; 
+  height: 200px;
+  margin: 10px;
+}
+
+
+
